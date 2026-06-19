@@ -127,7 +127,7 @@ uav-krti/
 
 | UAV Overview | Avionics Setup | Competition Flight |
 |---|---|---|
-| ![nama](docs/images/IMG_3103.jpeg) | ![nama](docs/images/IMG_3035.jpeg) | ![nama](docs/images/WhatsApp Image 2025-09-29 at 18.57.45_903ca5cd.jpg) |
+| ![nama](docs/images/IMG_3103.jpeg) | ![nama](docs/images/IMG_3035.jpeg) | ![nama](docs/images/WhatsAppImage2025-09-29at18.57.45_903ca5cd.jpg) |
 
 ---
 
