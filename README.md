@@ -148,7 +148,7 @@ Universitas Jenderal Soedirman (Unsoed)
 
 ## 👤 Author
 
-**Farhan Ibnufajar** — Head of Avionics Division
+**Farhan Ibnufajar** — Head of the Racing Plane Team
 Electrical Engineering — Universitas Jenderal Soedirman (Unsoed)
 
 [![GitHub](https://img.shields.io/badge/GitHub-farhanibnufajar-181717?style=flat&logo=github)](https://github.com/farhanibnufajar)
