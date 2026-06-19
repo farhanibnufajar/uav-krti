@@ -125,11 +125,9 @@ uav-krti/
 
 ## 📸 Documentation
 
-> Add UAV photos and flight videos to `/docs/images/` and update links below.
-
 | UAV Overview | Avionics Setup | Competition Flight |
 |---|---|---|
-| *(photo here)* | *(photo here)* | *(photo/video here)* |
+| ![nama](docs/images/IMG_3103.jpeg) | ![nama](docs/images/IMG_3035.jpeg) | ![nama](docs/images/WhatsApp Image 2025-09-29 at 18.57.45_903ca5cd.jpg) |
 
 ---
 
