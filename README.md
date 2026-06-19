@@ -1,6 +1,6 @@
 # ✈️ Biantara — UAV Racing Plane (KRTI)
 
-A high-speed fixed-wing UAV racing plane developed by Soedirman Robotic Team for the Indonesian Flying Robot Contest (KRTI) national competition — achieving **Top 8 at KRTI 2024** and **Top 16 at KRTI 2025**.
+A high-speed fixed-wing UAV racing plane developed by Biantara UAV Research Team for the Indonesian Flying Robot Contest (KRTI) national competition — achieving **Top 8 at KRTI 2024** and **Top 16 at KRTI 2025**.
 
 ---
 
